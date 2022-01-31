@@ -1,13 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>Minuimus</title>
-</head>
-<body>
-
-
 <h1 style="font-size:32pt;text-align:center;">Minuimus</h1>
 
 <p>Minuimus is a file optimiser utility script: You point it at a file, and it makes the file smaller without compromising the file contents. File optimisers are able to do this using a variety of file-specfic optimisations, most of which involve decompressing data within a compressed file and recompressing it in a more efficient manner. The process could be compared directly to extracting a ZIP file, then recompressing it at the most demanding setting. It uses many of the same techniques used by other optimisers such as Papa's Best Optimizer.</p>
@@ -89,6 +79,3 @@
 </ul>
 
 <p>Minuimus.pl and associated helpers are released under the GPL licence, version three.</p>
-
-</body>
-</html>
