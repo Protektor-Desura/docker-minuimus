@@ -37,5 +37,11 @@ RUN \
   libjpeg-progs \
   imagemagick-6.q16 && \
  echo "**** compile minuimus ****" && \
- make all
+ make all \
  make intall
+
+# set work directory
+WORKDIR /config
+
+# ports and volumes
+VOLUME /config
