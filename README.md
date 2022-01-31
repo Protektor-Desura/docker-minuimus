@@ -78,4 +78,4 @@
   <li>Both of these also detect mono audio stored as stereo, and convert it to mono format for more efficient compression.</li>
 </ul>
 
-<p>Minuimus.pl and associated helpers are released under the GPL licence, version three.</p>
+<p>Minuimus.pl and associated helpers are released under the AGPL licence, version three.</p>
