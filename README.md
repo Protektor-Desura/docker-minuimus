@@ -77,5 +77,3 @@
   <li>If audio processing is enabled, MP3 files with a bitrate of 256kbps or above will be converted to 128kbps Opus. Both these bitrates are chosen as they are generally considered transparent for their respective codecs. The bitrate can be reduced with --audio-agg if processing speech only.</li>
   <li>Both of these also detect mono audio stored as stereo, and convert it to mono format for more efficient compression.</li>
 </ul>
-
-<p>Minuimus.pl and associated helpers are released under the AGPL licence, version three.</p>
